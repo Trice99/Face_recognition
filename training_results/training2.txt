@@ -1,0 +1,651 @@
+﻿haarcascade_frontalface_default.xml
+
+a képek eredeti méretének megőrzése a tanítás során
+
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\111.jpg 
+ Daniel
+Face_ID:  0
+[[3290 1354   43   43]
+ [ 876 1744   57   57]
+ [3808  840  141  141]
+ [2181 1904   75   75]
+ [3190 1542   68   68]
+ [3247  493   57   57]
+ [3670  490   58   58]
+ [3788  935   54   54]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\112.jpg 
+ Daniel
+Face_ID:  0
+[[3290 1354   43   43]
+ [ 876 1744   57   57]
+ [2181 1904   75   75]
+ [3808  840  141  141]
+ [3190 1542   68   68]
+ [3247  493   57   57]
+ [3670  490   58   58]
+ [3788  935   54   54]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\113.jpg 
+ Daniel
+Face_ID:  0
+[[3290 1354   43   43]
+ [ 876 1744   57   57]
+ [2181 1904   75   75]
+ [3808  840  141  141]
+ [3190 1542   68   68]
+ [3247  493   57   57]
+ [3670  490   58   58]
+ [3788  935   54   54]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\121.jpg 
+ Daniel
+Face_ID:  0
+[[3290 1354   43   43]
+ [ 876 1744   57   57]
+ [ 318  231  271  271]
+ [3808  840  141  141]
+ [2181 1904   75   75]
+ [3247  493   57   57]
+ [3190 1542   68   68]
+ [3670  490   58   58]
+ [3788  935   54   54]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\122.jpg 
+ Daniel
+Face_ID:  0
+[[3290 1354   43   43]
+ [ 876 1744   57   57]
+ [3808  840  141  141]
+ [2181 1904   75   75]
+ [3190 1542   68   68]
+ [3247  493   57   57]
+ [3788  935   54   54]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\123.jpg 
+ Daniel
+Face_ID:  0
+[[3290 1354   43   43]
+ [ 876 1744   57   57]
+ [2363 1007   47   47]
+ [3808  840  141  141]
+ [2181 1904   75   75]
+ [3190 1542   68   68]
+ [3247  493   57   57]
+ [3670  490   58   58]
+ [3788  935   54   54]
+ [2146  629   58   58]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\211.jpg 
+ Daniel
+Face_ID:  0
+[[ 354 2780   32   32]
+ [3094 2095   77   77]
+ [3860  722  223  223]
+ [3847 2062   54   54]
+ [3862 2205   61   61]
+ [4088 2212   52   52]
+ [4903  750   77   77]
+ [ 574 1054   64   64]
+ [1772   82   36   36]
+ [ 447 1164   71   71]
+ [4659 3798   61   61]
+ [2783 3155   79   79]
+ [1066 1626   61   61]
+ [ 215 2345   57   57]
+ [1276 3530   61   61]
+ [3464  258   58   58]
+ [2117 3624   50   50]
+ [3721 3084  115  115]
+ [ 716  916   52   52]
+ [2453  409  195  195]
+ [1670 1362   51   51]
+ [ 376 3238   98   98]
+ [1309 1847   32   32]
+ [1177  484   64   64]
+ [2400  632   34   34]
+ [5258 2731   82   82]
+ [1275  656   53   53]
+ [4188 1938   54   54]
+ [ 606 2492   52   52]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\212.jpg 
+ Daniel
+Face_ID:  0
+[[ 354 2780   32   32]
+ [3094 2095   77   77]
+ [3860  722  223  223]
+ [3847 2062   54   54]
+ [4903  750   77   77]
+ [3862 2205   61   61]
+ [4088 2212   52   52]
+ [ 996 2902   47   47]
+ [1772   82   36   36]
+ [2783 3155   79   79]
+ [1066 1626   61   61]
+ [ 215 2345   57   57]
+ [ 802 3847   54   54]
+ [4659 3798   61   61]
+ [2117 3624   50   50]
+ [3721 3084  115  115]
+ [3464  258   58   58]
+ [1276 3530   61   61]
+ [ 716  916   52   52]
+ [1309 1847   32   32]
+ [5053 2984  472  472]
+ [ 574 1054   64   64]
+ [2453  409  195  195]
+ [5258 2731   82   82]
+ [4188 1938   54   54]
+ [1177  484   64   64]
+ [ 447 1164   71   71]
+ [ 606 2492   52   52]
+ [1670 1362   51   51]
+ [2400  632   34   34]
+ [1275  656   53   53]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\213.jpg 
+ Daniel
+Face_ID:  0
+[[ 354 2780   32   32]
+ [3860  722  223  223]
+ [3847 2062   54   54]
+ [3862 2205   61   61]
+ [4088 2212   52   52]
+ [4903  750   77   77]
+ [ 996 2902   47   47]
+ [1772   82   36   36]
+ [2783 3155   79   79]
+ [1066 1626   61   61]
+ [ 215 2345   57   57]
+ [4659 3798   61   61]
+ [ 802 3847   54   54]
+ [3464  258   58   58]
+ [1276 3530   61   61]
+ [ 716  916   52   52]
+ [3721 3084  115  115]
+ [2117 3624   50   50]
+ [1309 1847   32   32]
+ [2453  409  195  195]
+ [ 574 1054   64   64]
+ [5258 2731   82   82]
+ [2400  632   34   34]
+ [1275  656   53   53]
+ [4188 1938   54   54]
+ [1177  484   64   64]
+ [ 606 2492   52   52]
+ [ 447 1164   71   71]
+ [1670 1362   51   51]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\221.jpg 
+ Daniel
+Face_ID:  0
+[[ 354 2780   32   32]
+ [3860  722  223  223]
+ [3094 2095   77   77]
+ [4903  750   77   77]
+ [3847 2062   54   54]
+ [3862 2205   61   61]
+ [4088 2212   52   52]
+ [ 996 2902   47   47]
+ [1772   82   36   36]
+ [ 802 3847   54   54]
+ [2783 3155   79   79]
+ [4659 3798   61   61]
+ [1066 1626   61   61]
+ [ 215 2345   57   57]
+ [3464  258   58   58]
+ [ 592  424  596  596]
+ [2117 3624   50   50]
+ [1276 3530   61   61]
+ [3721 3084  115  115]
+ [2453  409  195  195]
+ [ 447 1164   71   71]
+ [2400  632   34   34]
+ [1275  656   53   53]
+ [1309 1847   32   32]
+ [5258 2731   82   82]
+ [4188 1938   54   54]
+ [1670 1362   51   51]
+ [ 606 2492   52   52]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\222.jpg 
+ Daniel
+Face_ID:  0
+[[ 354 2780   32   32]
+ [3094 2095   77   77]
+ [3860  722  223  223]
+ [3847 2062   54   54]
+ [3862 2205   61   61]
+ [4088 2212   52   52]
+ [1772   82   36   36]
+ [ 996 2902   47   47]
+ [2783 3155   79   79]
+ [1066 1626   61   61]
+ [ 802 3847   54   54]
+ [4659 3798   61   61]
+ [ 215 2345   57   57]
+ [3464  258   58   58]
+ [2117 3624   50   50]
+ [ 716  916   52   52]
+ [3721 3084  115  115]
+ [1276 3530   61   61]
+ [ 574 1054   64   64]
+ [2453  409  195  195]
+ [1309 1847   32   32]
+ [ 447 1164   71   71]
+ [1177  484   64   64]
+ [5258 2731   82   82]
+ [2400  632   34   34]
+ [1670 1362   51   51]
+ [4188 1938   54   54]
+ [1275  656   53   53]
+ [ 606 2492   52   52]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\223.jpg 
+ Daniel
+Face_ID:  0
+[[ 354 2780   32   32]
+ [3860  722  223  223]
+ [4903  750   77   77]
+ [3847 2062   54   54]
+ [3862 2205   61   61]
+ [4088 2212   52   52]
+ [2458 2273   59   59]
+ [ 996 2902   47   47]
+ [1772   82   36   36]
+ [1066 1626   61   61]
+ [ 802 3847   54   54]
+ [4659 3798   61   61]
+ [ 215 2345   57   57]
+ [2783 3155   79   79]
+ [2117 3624   50   50]
+ [1309 1847   32   32]
+ [1276 3530   61   61]
+ [3464  258   58   58]
+ [ 716  916   52   52]
+ [1177  484   64   64]
+ [4188 1938   54   54]
+ [3721 3084  115  115]
+ [5258 2731   82   82]
+ [ 574 1054   64   64]
+ [2453  409  195  195]
+ [2400  632   34   34]
+ [ 606 2492   52   52]
+ [1275  656   53   53]
+ [ 447 1164   71   71]
+ [1670 1362   51   51]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\311.jpg 
+ Daniel
+Face_ID:  0
+[[ 100 1482  240  240]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\312.jpg 
+ Daniel
+Face_ID:  0
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\313.jpg 
+ Daniel
+Face_ID:  0
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\321.jpg 
+ Daniel
+Face_ID:  0
+[[304 224 286 286]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\322.jpg 
+ Daniel
+Face_ID:  0
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\323.jpg 
+ Daniel
+Face_ID:  0
+[[2029  941  278  278]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\411.jpg 
+ Daniel
+Face_ID:  0
+[[398 163  73  73]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\412.jpg 
+ Daniel
+Face_ID:  0
+[[398 163  73  73]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\413.jpg 
+ Daniel
+Face_ID:  0
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\421.jpg 
+ Daniel
+Face_ID:  0
+[[ 93  67  86  86]
+ [398 163  73  73]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\422.jpg 
+ Daniel
+Face_ID:  0
+[[398 163  73  73]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\423.jpg 
+ Daniel
+Face_ID:  0
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\511.jpg 
+ Daniel
+Face_ID:  0
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\512.jpg 
+ Daniel
+Face_ID:  0
+[[117 406  67  67]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\513.jpg 
+ Daniel
+Face_ID:  0
+[[117 406  67  67]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\521.jpg 
+ Daniel
+Face_ID:  0
+[[117 406  67  67]
+ [ 97  68  83  83]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\522.jpg 
+ Daniel
+Face_ID:  0
+[[117 406  67  67]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Daniel\523.jpg 
+ Daniel
+Face_ID:  0
+[[117 406  67  67]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\1.jpg 
+ Gergely
+Face_ID:  1
+[[ 329  780  116  116]
+ [3202 1464   28   28]
+ [  26 1598  309  309]
+ [3810  842  141  141]
+ [ 403  726  121  121]
+ [1143  198   52   52]
+ [1672  560   96   96]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\10.jpg 
+ Gergely
+Face_ID:  1
+[[4538 1506   33   33]
+ [ 354 2780   32   32]
+ [3845 2062   55   55]
+ [2450  409  195  195]
+ [1453 2255   57   57]
+ [3861 2204   62   62]
+ [ 995 2900   50   50]
+ [1070 1629   56   56]
+ [ 446  166   65   65]
+ [4659 3798   60   60]
+ [1319  948   55   55]
+ [1648 1570   25   25]
+ [3462  257   61   61]
+ [2374 3524   54   54]
+ [ 442  978   57   57]
+ [3512  936   54   54]
+ [2399  632   35   35]
+ [1276 3532   58   58]
+ [1275  656   52   52]
+ [ 576 1056   62   62]
+ [2646 3205   66   66]
+ [1310 1848   30   30]
+ [5252 2650   83   83]
+ [5258 2730   82   82]
+ [4188 1939   53   53]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\11.jpg 
+ Gergely
+Face_ID:  1
+[[4538 1506   33   33]
+ [3845 2062   55   55]
+ [ 354 2780   32   32]
+ [1453 2255   57   57]
+ [3861 2204   62   62]
+ [5484  767   75   75]
+ [2450  409  195  195]
+ [ 995 2900   50   50]
+ [1070 1629   56   56]
+ [4659 3798   60   60]
+ [1648 1570   25   25]
+ [2374 3524   54   54]
+ [1319  948   55   55]
+ [1276 3532   58   58]
+ [3462  257   61   61]
+ [3512  936   54   54]
+ [2646 3205   66   66]
+ [1310 1848   30   30]
+ [2399  632   35   35]
+ [ 576 1056   62   62]
+ [1275  656   52   52]
+ [5252 2650   83   83]
+ [5258 2730   82   82]
+ [4188 1939   53   53]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\12.jpg 
+ Gergely
+Face_ID:  1
+[[4507 1406   26   26]
+ [3863  718  230  230]
+ [ 354 2780   32   32]
+ [3846 2061   55   55]
+ [2052 1399   52   52]
+ [1451 2252   60   60]
+ [3861 2204   62   62]
+ [2627 3403   54   54]
+ [3431 3692   64   64]
+ [ 995 2900   49   49]
+ [4658 3798   61   61]
+ [1068 1628   58   58]
+ [4022  181   48   48]
+ [2460  191   46   46]
+ [3514  935   54   54]
+ [1659 2954  249  249]
+ [3463  257   61   61]
+ [2649 3206   63   63]
+ [ 575 1056   62   62]
+ [1276 3531   59   59]
+ [ 446 1164   70   70]
+ [ 454 1072   28   28]
+ [1422 2483   28   28]
+ [1386  354   26   26]
+ [5259 2732   82   82]
+ [1310 1848   30   30]
+ [2450  409  195  195]
+ [2398  632   35   35]
+ [4186 1937   57   57]
+ [1276  658   50   50]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\13.jpg 
+ Gergely
+Face_ID:  1
+[[  26 1606  311  311]
+ [3281  201  111  111]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\14.jpg 
+ Gergely
+Face_ID:  1
+[[3716 1454   44   44]
+ [3018 1584  341  341]
+ [3281  201  111  111]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\15.jpg 
+ Gergely
+Face_ID:  1
+[[1503  785  331  331]
+ [3281  201  111  111]
+ [2195  654   40   40]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\16.jpg 
+ Gergely
+Face_ID:  1
+[[ 132  733   48   48]
+ [3281  201  111  111]
+ [ 440  162   68   68]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\17.jpg 
+ Gergely
+Face_ID:  1
+[[3286  207  101  101]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\18.jpg 
+ Gergely
+Face_ID:  1
+[[1969 1150   32   32]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\19.jpg 
+ Gergely
+Face_ID:  1
+[[  8 500 110 110]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\2.jpg 
+ Gergely
+Face_ID:  1
+[[ 329  780  116  116]
+ [3049 1586  335  335]
+ [3810  842  141  141]
+ [3747 1456   37   37]
+ [ 403  726  121  121]
+ [1143  198   52   52]
+ [1672  560   96   96]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\20.jpg 
+ Gergely
+Face_ID:  1
+[[616 493 120 120]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\21.jpg 
+ Gergely
+Face_ID:  1
+[[310 286 120 120]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\22.jpg 
+ Gergely
+Face_ID:  1
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\23.jpg 
+ Gergely
+Face_ID:  1
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\24.jpg 
+ Gergely
+Face_ID:  1
+()
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\25.jpg 
+ Gergely
+Face_ID:  1
+[[  7 499 111 111]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\26.jpg 
+ Gergely
+Face_ID:  1
+[[114 404  70  70]
+ [620 499 115 115]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\27.jpg 
+ Gergely
+Face_ID:  1
+[[114 404  70  70]
+ [313 290 117 117]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\28.jpg 
+ Gergely
+Face_ID:  1
+[[114 404  70  70]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\29.jpg 
+ Gergely
+Face_ID:  1
+[[114 404  70  70]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\3.jpg 
+ Gergely
+Face_ID:  1
+[[ 329  780  116  116]
+ [2119  713   39   39]
+ [3202 1464   28   28]
+ [3810  842  141  141]
+ [1426  842  342  342]
+ [ 403  726  121  121]
+ [1143  198   52   52]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\30.jpg 
+ Gergely
+Face_ID:  1
+[[114 404  70  70]
+ [367 315  80  80]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\4.jpg 
+ Gergely
+Face_ID:  1
+[[3202 1464   28   28]
+ [3810  842  141  141]
+ [ 452  122   87   87]
+ [ 439  161   68   68]
+ [1143  198   52   52]
+ [1672  560   96   96]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\5.jpg 
+ Gergely
+Face_ID:  1
+[[ 329  780  116  116]
+ [1143  198   52   52]
+ [3202 1464   28   28]
+ [ 403  726  121  121]
+ [1672  560   96   96]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\6.jpg 
+ Gergely
+Face_ID:  1
+[[2220 1738   52   52]
+ [ 328  780  117  117]
+ [3202 1464   28   28]
+ [1551  950  344  344]
+ [2181 1903   75   75]
+ [3808  837  147  147]
+ [1951 1834   36   36]
+ [1143  198   52   52]
+ [3790  935   53   53]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\7.jpg 
+ Gergely
+Face_ID:  1
+[[4538 1506   33   33]
+ [ 354 2780   32   32]
+ [3845 2062   55   55]
+ [ 708 3480   37   37]
+ [1453 2255   57   57]
+ [3861 2204   62   62]
+ [ 995 2900   50   50]
+ [4659 3798   60   60]
+ [1070 1629   56   56]
+ [1648 1570   25   25]
+ [2374 3524   54   54]
+ [1276 3532   58   58]
+ [3462  257   61   61]
+ [1319  948   55   55]
+ [  21 3607  329  329]
+ [3512  936   54   54]
+ [1310 1848   30   30]
+ [2450  409  195  195]
+ [2646 3205   66   66]
+ [ 576 1056   62   62]
+ [2399  632   35   35]
+ [1275  656   52   52]
+ [5252 2650   83   83]
+ [4188 1939   53   53]
+ [5258 2730   82   82]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\8.jpg 
+ Gergely
+Face_ID:  1
+[[4538 1506   33   33]
+ [ 354 2780   32   32]
+ [3845 2062   55   55]
+ [1453 2255   57   57]
+ [3861 2204   62   62]
+ [ 995 2900   50   50]
+ [4659 3798   60   60]
+ [1070 1629   56   56]
+ [1648 1570   25   25]
+ [2374 3524   54   54]
+ [1319  948   55   55]
+ [5037 3597  352  352]
+ [1276 3532   58   58]
+ [3462  257   61   61]
+ [3512  936   54   54]
+ [ 576 1056   62   62]
+ [1310 1848   30   30]
+ [2646 3205   66   66]
+ [2450  409  195  195]
+ [5252 2650   83   83]
+ [2399  632   35   35]
+ [4188 1939   53   53]
+ [1275  656   52   52]
+ [5258 2730   82   82]]
+D:\Docs\Pannon Egyetem\MSc\Félévek\4\Számítógépes látás\Beadandó\Face_recognition\Face_Images\Gergely\9.jpg 
+ Gergely
+Face_ID:  1
+[[4538 1506   33   33]
+ [2351 1664  350  350]
+ [ 354 2780   32   32]
+ [3845 2062   55   55]
+ [1453 2255   57   57]
+ [3861 2204   62   62]
+ [ 995 2900   50   50]
+ [4659 3798   60   60]
+ [1070 1629   56   56]
+ [1648 1570   25   25]
+ [3462  257   61   61]
+ [2374 3524   54   54]
+ [1319  948   55   55]
+ [1276 3532   58   58]
+ [1310 1848   30   30]
+ [2450  409  195  195]
+ [3512  936   54   54]
+ [2646 3205   66   66]
+ [ 576 1056   62   62]
+ [2399  632   35   35]
+ [1275  656   52   52]
+ [4188 1939   53   53]
+ [5252 2650   83   83]
+ [5258 2730   82   82]]

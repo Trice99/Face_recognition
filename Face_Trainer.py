@@ -44,8 +44,9 @@ for root, dirs, files in os.walk(Face_Images):
             print('Face_ID: ', Face_ID)
             
             Grey_Image = Image.open(path).convert('L')
-            Crop_Image = Grey_Image.resize((300,300), Image.ANTIALIAS)
-            Final_Image = np.array(Crop_Image).astype('uint8')
+            #Crop_Image = Grey_Image.resize((300,300), Image.ANTIALIAS)
+            #Final_Image = np.array(Crop_Image).astype('uint8')
+            Final_Image = np.array(Grey_Image).astype('uint8')
             # Arc keresése a képen
             faces = face_cascade.detectMultiScale(Final_Image) # default: scaleFactor=1.1, minNeighbors=3
             print(faces)
