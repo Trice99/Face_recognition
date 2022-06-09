@@ -12,7 +12,7 @@ recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 recognizer.read('face-trainer.yml')
 
-cap = cv2.VideoCapture(1) # USB Webkamera
+cap = cv2.VideoCapture(0) # laptop esetén: 0: integrált kamera, 1: USB kamera; DESKTOP estetén: 0: USB kamera
 while(True):
     ret, img = cap.read()
 
